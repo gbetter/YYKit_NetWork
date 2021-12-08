@@ -1,0 +1,16 @@
+PODS:
+  - YYKit_NetWork (0.1.0)
+
+DEPENDENCIES:
+  - YYKit_NetWork (from `../`)
+
+EXTERNAL SOURCES:
+  YYKit_NetWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYKit_NetWork: b349a59df8f07cf0add1e99f23a264328e0ac7ed
+
+PODFILE CHECKSUM: a57224edc027b4b75def4f6549e0e994bd0d7ea8
+
+COCOAPODS: 1.10.1

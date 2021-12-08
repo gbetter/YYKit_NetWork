@@ -1,0 +1,6 @@
+framework module YYKit_NetWork {
+  umbrella header "YYKit_NetWork-umbrella.h"
+
+  export *
+  module * { export * }
+}

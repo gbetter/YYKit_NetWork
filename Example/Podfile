@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YYKit_NetWork_Tests' do
+  pod 'YYKit_NetWork', :path => '../'
+  
+  
+end

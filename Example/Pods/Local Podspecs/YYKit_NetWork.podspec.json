@@ -1,0 +1,22 @@
+{
+  "name": "YYKit_NetWork",
+  "version": "0.1.0",
+  "summary": "A short description of YYKit_NetWork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhenyue/YYKit_NetWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhenyue": "1246233242@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhenyue/YYKit_NetWork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YYKit_NetWork/Classes/**/*"
+}
